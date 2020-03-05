@@ -1,6 +1,6 @@
 ## Tic-Tac-Toe
 A basic tic-tac-toe game made using React to learn the basics of the framework.  
-![last][third]
+<center>![last][third]</center>
 
 #### Dependencies  
 1. nodejs 
