@@ -37,6 +37,6 @@ npm start
 ```
 ##### Screenshots
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/initial.png">
-  <img width="460" height="300" src="https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/final.png ">
+  <img width="500" height="600" src="https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/initial.png">
+  <img width="500" height="600" src="https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/final.png ">
 </p>
