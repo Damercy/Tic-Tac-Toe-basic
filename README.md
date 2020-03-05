@@ -1,6 +1,8 @@
 ## Tic-Tac-Toe
 A basic tic-tac-toe game made using React to learn the basics of the framework.  
-<center>![last][third]</center>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/intermediate.png">
+</p>
 
 #### Dependencies  
 1. nodejs 
@@ -34,9 +36,7 @@ rm -r xyz
 npm start
 ```
 ##### Screenshots
-![initial][first]
-![next][second]
-
-[first]: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/initial.png 'Initial Screen'
-[second]: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/intermediate.png 'In-between Screen'
-[third]: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/final.png 'Final Screen'
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/initial.png">
+  <img width="460" height="300" src="https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/final.png ">
+</p>
