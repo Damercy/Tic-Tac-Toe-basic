@@ -37,6 +37,6 @@ npm start
 ![initial][first]
 ![next][second]
 
-first: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/initial.png 'Initial Screen'
-second: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/intermediate.png 'In-between Screen'
-third: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/final.png 'Final Screen'
+[first]: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/initial.png 'Initial Screen'
+[second]: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/intermediate.png 'In-between Screen'
+[third]: https://github.com/Damercy/Tic-Tac-Toe-basic/blob/master/screenshots/final.png 'Final Screen'
